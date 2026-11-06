@@ -1,0 +1,3 @@
+local damageRequest = {}
+
+return damageRequest

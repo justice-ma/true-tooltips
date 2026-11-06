@@ -1,0 +1,10 @@
+{
+  "name": "True Tooltips",
+  "version": "1.0",
+  "contactEmailAddress": "wxrlplugins@gmail.com",
+  "requiredDependencies": {},
+  "optionalDependencies": {},
+  "requiredPermissions": ["httpAccess"],
+  "optionalPermissions": [],
+  "urls": { "rotdb": "https://api.rotdb.com" }
+}

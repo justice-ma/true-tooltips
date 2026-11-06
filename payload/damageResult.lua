@@ -1,0 +1,2 @@
+local damageResult = {}
+return damageResult
